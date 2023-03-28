@@ -1,0 +1,10 @@
+html,
+body {
+  padding: 1rem;
+  background-color: grey;
+}
+
+h1 {
+  font-size: 5rem;
+  color: rebeccapurple;
+}
